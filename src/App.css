@@ -1,0 +1,77 @@
+body{
+  background-color: rgb(230, 230, 230);
+}
+
+.menu{
+  width: 200px;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+}
+.menu h2{
+  font-weight: 500;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.menu hr{
+  width: 200px;
+height: 1px;
+margin-top: 70px;
+margin-left: -160px;
+}
+.menu button{
+  width: 180px;
+  height: 40px;
+  left: 10px;
+margin-top: 80px;
+position: absolute;
+}
+.fle{
+  width: 1260px;
+  height: 430px;
+  background-color: white;
+  margin-left: 240px;
+  border-radius: 10px;
+  margin-top: -630px;
+}
+.lf{
+  margin-left: -100px !important;
+}
+.ii{
+  margin-left: 245px;
+  margin-top: -150px;
+}
+.ii{
+  margin-top: -120px;
+}
+.ii input{
+  width: 480px;
+  height: 30px;
+}
+.h2{
+  margin-top: -40px;
+  margin-left: -1px;
+  position: absolute;
+}
+.fg{
+  width: 1060px;
+  height: 35px;
+  margin-left: 245px;
+  z-index: 5;
+  margin-top: 40px;
+  position: absolute;
+  border: dashed dodgerblue 1px !important;
+  color: dodgerblue;
+}
+.fle hr{
+  width: 1260px;
+  height: 1px;
+  background-color: rgb(150, 150, 150);
+  border: none;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+.bb{
+  margin-left: 1240px;
+  margin-top: 15px;
+}
